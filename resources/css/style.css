@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: Verdana;
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+	
+/* heading styling */
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+/* element styling */
+p {
+	color: gray;
+	font-size: 16px;
+}
+a {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+/*alignment */
+.right {
+	text-align: right;
+}
