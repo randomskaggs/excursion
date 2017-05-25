@@ -1,16 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
 
-body {
-	font-family: Verdana;
-	color: white;
-	background-color: black;
+* {
+	font-family: Helvetica;
 	text-align: center;
 }
 	
 /* heading styling */
 h1 {
-	font-size: 50px;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	background-image: URL("resources/images/the-flatiron-building.png");
 }
 h2 {
 	font-weight: 300;
